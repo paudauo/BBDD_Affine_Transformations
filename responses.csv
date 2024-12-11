@@ -1,0 +1,961 @@
+ref,dist_ord,resp
+img_01.png,rot_img_01_level_01.png  ,0
+img_01.png,rot_img_01_level_02.png  ,0.5489059
+img_01.png,rot_img_01_level_03.png  ,1.041689
+img_01.png,rot_img_01_level_04.png  ,1.418444
+img_01.png,rot_img_01_level_05.png  ,2.081331
+img_01.png,rot_img_01_level_06.png  ,2.555316
+img_01.png,rot_img_01_level_07.png  ,3.230726
+img_01.png,rot_img_01_level_08.png  ,3.914719
+img_01.png,rot_img_01_level_09.png  ,4.254201
+img_01.png,rot_img_01_level_10.png  ,4.916176
+img_02.png,rot_img_02_level_01.png  ,0
+img_02.png,rot_img_02_level_02.png  ,0.04970533
+img_02.png,rot_img_02_level_03.png  ,0.382438
+img_02.png,rot_img_02_level_04.png  ,0.7555214
+img_02.png,rot_img_02_level_05.png  ,1.035001
+img_02.png,rot_img_02_level_06.png  ,1.569049
+img_02.png,rot_img_02_level_07.png  ,1.826575
+img_02.png,rot_img_02_level_08.png  ,2.286316
+img_02.png,rot_img_02_level_09.png  ,2.638472
+img_02.png,rot_img_02_level_10.png  ,2.900831
+img_03.png,rot_img_03_level_01.png  ,0
+img_03.png,rot_img_03_level_02.png  ,0.3450118
+img_03.png,rot_img_03_level_03.png  ,0.6866382
+img_03.png,rot_img_03_level_04.png  ,1.105506
+img_03.png,rot_img_03_level_05.png  ,1.326583
+img_03.png,rot_img_03_level_06.png  ,1.335428
+img_03.png,rot_img_03_level_07.png  ,2.055672
+img_03.png,rot_img_03_level_08.png  ,2.50479
+img_03.png,rot_img_03_level_09.png  ,2.965868
+img_03.png,rot_img_03_level_10.png  ,3.37915
+img_04.png,rot_img_04_level_01.png  ,0
+img_04.png,rot_img_04_level_02.png  ,0.7028098
+img_04.png,rot_img_04_level_03.png  ,1.636474
+img_04.png,rot_img_04_level_04.png  ,1.873351
+img_04.png,rot_img_04_level_05.png  ,2.105794
+img_04.png,rot_img_04_level_06.png  ,2.718227
+img_04.png,rot_img_04_level_07.png  ,2.302983
+img_04.png,rot_img_04_level_08.png  ,2.853798
+img_04.png,rot_img_04_level_09.png  ,2.921612
+img_04.png,rot_img_04_level_10.png  ,3.015468
+img_05.png,rot_img_05_level_01.png  ,0
+img_05.png,rot_img_05_level_02.png  ,0.2128591
+img_05.png,rot_img_05_level_03.png  ,0.5666983
+img_05.png,rot_img_05_level_04.png  ,0.9311383
+img_05.png,rot_img_05_level_05.png  ,1.335896
+img_05.png,rot_img_05_level_06.png  ,1.775734
+img_05.png,rot_img_05_level_07.png  ,2.122488
+img_05.png,rot_img_05_level_08.png  ,2.693013
+img_05.png,rot_img_05_level_09.png  ,3.120361
+img_05.png,rot_img_05_level_10.png  ,3.55307
+img_06.png,rot_img_06_level_01.png  ,0
+img_06.png,rot_img_06_level_02.png  ,0.3133649
+img_06.png,rot_img_06_level_03.png  ,1.245218
+img_06.png,rot_img_06_level_04.png  ,1.293393
+img_06.png,rot_img_06_level_05.png  ,1.686267
+img_06.png,rot_img_06_level_06.png  ,1.917571
+img_06.png,rot_img_06_level_07.png  ,2.600531
+img_06.png,rot_img_06_level_08.png  ,2.92507
+img_06.png,rot_img_06_level_09.png  ,3.475358
+img_06.png,rot_img_06_level_10.png  ,3.55253
+img_07.png,rot_img_07_level_01.png  ,0
+img_07.png,rot_img_07_level_02.png  ,0.1759068
+img_07.png,rot_img_07_level_03.png  ,0.5716608
+img_07.png,rot_img_07_level_04.png  ,0.9637985
+img_07.png,rot_img_07_level_05.png  ,1.223167
+img_07.png,rot_img_07_level_06.png  ,1.397938
+img_07.png,rot_img_07_level_07.png  ,1.958212
+img_07.png,rot_img_07_level_08.png  ,2.438223
+img_07.png,rot_img_07_level_09.png  ,2.740678
+img_07.png,rot_img_07_level_10.png  ,3.185632
+img_08.png,rot_img_08_level_01.png  ,0
+img_08.png,rot_img_08_level_02.png  ,0.4278762
+img_08.png,rot_img_08_level_03.png  ,1.291664
+img_08.png,rot_img_08_level_04.png  ,1.845738
+img_08.png,rot_img_08_level_05.png  ,2.471974
+img_08.png,rot_img_08_level_06.png  ,2.815824
+img_08.png,rot_img_08_level_07.png  ,2.717934
+img_08.png,rot_img_08_level_08.png  ,3.114971
+img_08.png,rot_img_08_level_09.png  ,3.429734
+img_08.png,rot_img_08_level_10.png  ,3.631366
+img_09.png,rot_img_09_level_01.png  ,0
+img_09.png,rot_img_09_level_02.png  ,0.2192263
+img_09.png,rot_img_09_level_03.png  ,0.6298089
+img_09.png,rot_img_09_level_04.png  ,0.7708881
+img_09.png,rot_img_09_level_05.png  ,1.039169
+img_09.png,rot_img_09_level_06.png  ,1.332742
+img_09.png,rot_img_09_level_07.png  ,1.385516
+img_09.png,rot_img_09_level_08.png  ,1.718493
+img_09.png,rot_img_09_level_09.png  ,1.727206
+img_09.png,rot_img_09_level_10.png  ,2.108507
+img_10.png,rot_img_10_level_01.png  ,0
+img_10.png,rot_img_10_level_02.png  ,0.6251305
+img_10.png,rot_img_10_level_03.png  ,0.9134941
+img_10.png,rot_img_10_level_04.png  ,1.286328
+img_10.png,rot_img_10_level_05.png  ,1.594727
+img_10.png,rot_img_10_level_06.png  ,1.940192
+img_10.png,rot_img_10_level_07.png  ,2.543437
+img_10.png,rot_img_10_level_08.png  ,3.037976
+img_10.png,rot_img_10_level_09.png  ,3.565445
+img_10.png,rot_img_10_level_10.png  ,4.09525
+img_11.png,rot_img_11_level_01.png  ,0
+img_11.png,rot_img_11_level_02.png  ,0.4000787
+img_11.png,rot_img_11_level_03.png  ,0.8539621
+img_11.png,rot_img_11_level_04.png  ,0.8910452
+img_11.png,rot_img_11_level_05.png  ,1.558673
+img_11.png,rot_img_11_level_06.png  ,1.680378
+img_11.png,rot_img_11_level_07.png  ,1.972149
+img_11.png,rot_img_11_level_08.png  ,2.476176
+img_11.png,rot_img_11_level_09.png  ,2.856625
+img_11.png,rot_img_11_level_10.png  ,3.182913
+img_12.png,rot_img_12_level_01.png  ,0
+img_12.png,rot_img_12_level_02.png  ,1.381546
+img_12.png,rot_img_12_level_03.png  ,1.786787
+img_12.png,rot_img_12_level_04.png  ,2.536879
+img_12.png,rot_img_12_level_05.png  ,2.997379
+img_12.png,rot_img_12_level_06.png  ,3.417374
+img_12.png,rot_img_12_level_07.png  ,3.577918
+img_12.png,rot_img_12_level_08.png  ,3.837406
+img_12.png,rot_img_12_level_09.png  ,3.910326
+img_12.png,rot_img_12_level_10.png  ,4.283753
+img_13.png,rot_img_13_level_01.png  ,0
+img_13.png,rot_img_13_level_02.png  ,0.7717231
+img_13.png,rot_img_13_level_03.png  ,1.422009
+img_13.png,rot_img_13_level_04.png  ,2.536638
+img_13.png,rot_img_13_level_05.png  ,2.975325
+img_13.png,rot_img_13_level_06.png  ,3.508668
+img_13.png,rot_img_13_level_07.png  ,4.038677
+img_13.png,rot_img_13_level_08.png  ,3.977957
+img_13.png,rot_img_13_level_09.png  ,4.883525
+img_13.png,rot_img_13_level_10.png  ,5.43174
+img_14.png,rot_img_14_level_01.png  ,0
+img_14.png,rot_img_14_level_02.png  ,0.04532307
+img_14.png,rot_img_14_level_03.png  ,0.5570753
+img_14.png,rot_img_14_level_04.png  ,0.9626923
+img_14.png,rot_img_14_level_05.png  ,0.7140239
+img_14.png,rot_img_14_level_06.png  ,1.395513
+img_14.png,rot_img_14_level_07.png  ,1.627515
+img_14.png,rot_img_14_level_08.png  ,1.822235
+img_14.png,rot_img_14_level_09.png  ,2.06735
+img_14.png,rot_img_14_level_10.png  ,2.522072
+img_15.png,rot_img_15_level_01.png  ,0
+img_15.png,rot_img_15_level_02.png  ,0.3835712
+img_15.png,rot_img_15_level_03.png  ,0.7147105
+img_15.png,rot_img_15_level_04.png  ,0.8610787
+img_15.png,rot_img_15_level_05.png  ,1.078544
+img_15.png,rot_img_15_level_06.png  ,1.6853
+img_15.png,rot_img_15_level_07.png  ,1.893915
+img_15.png,rot_img_15_level_08.png  ,2.361779
+img_15.png,rot_img_15_level_09.png  ,3.128862
+img_15.png,rot_img_15_level_10.png  ,3.164645
+img_16.png,rot_img_16_level_01.png  ,0
+img_16.png,rot_img_16_level_02.png  ,1.035169
+img_16.png,rot_img_16_level_03.png  ,2.050975
+img_16.png,rot_img_16_level_04.png  ,2.619393
+img_16.png,rot_img_16_level_05.png  ,3.23363
+img_16.png,rot_img_16_level_06.png  ,3.838243
+img_16.png,rot_img_16_level_07.png  ,3.986873
+img_16.png,rot_img_16_level_08.png  ,4.211341
+img_16.png,rot_img_16_level_09.png  ,4.422527
+img_16.png,rot_img_16_level_10.png  ,4.433868
+img_17.png,rot_img_17_level_01.png  ,0
+img_17.png,rot_img_17_level_02.png  ,0.3760484
+img_17.png,rot_img_17_level_03.png  ,0.8567261
+img_17.png,rot_img_17_level_04.png  ,0.3786112
+img_17.png,rot_img_17_level_05.png  ,0.7638177
+img_17.png,rot_img_17_level_06.png  ,1.023593
+img_17.png,rot_img_17_level_07.png  ,1.241893
+img_17.png,rot_img_17_level_08.png  ,1.663119
+img_17.png,rot_img_17_level_09.png  ,2.026319
+img_17.png,rot_img_17_level_10.png  ,2.221301
+img_18.png,rot_img_18_level_01.png  ,0
+img_18.png,rot_img_18_level_02.png  ,0.4517723
+img_18.png,rot_img_18_level_03.png  ,0.824447
+img_18.png,rot_img_18_level_04.png  ,1.244491
+img_18.png,rot_img_18_level_05.png  ,1.241511
+img_18.png,rot_img_18_level_06.png  ,1.860956
+img_18.png,rot_img_18_level_07.png  ,2.131325
+img_18.png,rot_img_18_level_08.png  ,2.5007
+img_18.png,rot_img_18_level_09.png  ,2.855202
+img_18.png,rot_img_18_level_10.png  ,3.154739
+img_19.png,rot_img_19_level_01.png  ,0
+img_19.png,rot_img_19_level_02.png  ,0.3101977
+img_19.png,rot_img_19_level_03.png  ,0.4393191
+img_19.png,rot_img_19_level_04.png  ,0.6502191
+img_19.png,rot_img_19_level_05.png  ,1.09471
+img_19.png,rot_img_19_level_06.png  ,1.079274
+img_19.png,rot_img_19_level_07.png  ,1.427608
+img_19.png,rot_img_19_level_08.png  ,1.61063
+img_19.png,rot_img_19_level_09.png  ,1.746548
+img_19.png,rot_img_19_level_10.png  ,2.243535
+img_20.png,rot_img_20_level_01.png  ,0
+img_20.png,rot_img_20_level_02.png  ,0.1091729
+img_20.png,rot_img_20_level_03.png  ,0.764805
+img_20.png,rot_img_20_level_04.png  ,1.472186
+img_20.png,rot_img_20_level_05.png  ,1.422566
+img_20.png,rot_img_20_level_06.png  ,2.172122
+img_20.png,rot_img_20_level_07.png  ,2.332751
+img_20.png,rot_img_20_level_08.png  ,2.521802
+img_20.png,rot_img_20_level_09.png  ,2.51044
+img_20.png,rot_img_20_level_10.png  ,2.686853
+img_21.png,rot_img_21_level_01.png  ,0
+img_21.png,rot_img_21_level_02.png  ,0.543781
+img_21.png,rot_img_21_level_03.png  ,0.167175
+img_21.png,rot_img_21_level_04.png  ,0.6134921
+img_21.png,rot_img_21_level_05.png  ,1.301652
+img_21.png,rot_img_21_level_06.png  ,1.260509
+img_21.png,rot_img_21_level_07.png  ,1.990898
+img_21.png,rot_img_21_level_08.png  ,2.60711
+img_21.png,rot_img_21_level_09.png  ,2.651616
+img_21.png,rot_img_21_level_10.png  ,3.131092
+img_22.png,rot_img_22_level_01.png  ,0
+img_22.png,rot_img_22_level_02.png  ,0.565497
+img_22.png,rot_img_22_level_03.png  ,1.308424
+img_22.png,rot_img_22_level_04.png  ,1.260775
+img_22.png,rot_img_22_level_05.png  ,1.939792
+img_22.png,rot_img_22_level_06.png  ,2.184782
+img_22.png,rot_img_22_level_07.png  ,2.627515
+img_22.png,rot_img_22_level_08.png  ,3.154905
+img_22.png,rot_img_22_level_09.png  ,3.139925
+img_22.png,rot_img_22_level_10.png  ,4.380779
+img_23.png,rot_img_23_level_01.png  ,0
+img_23.png,rot_img_23_level_02.png  ,0.2667286
+img_23.png,rot_img_23_level_03.png  ,0.2792155
+img_23.png,rot_img_23_level_04.png  ,0.4207986
+img_23.png,rot_img_23_level_05.png  ,0.9140708
+img_23.png,rot_img_23_level_06.png  ,1.079509
+img_23.png,rot_img_23_level_07.png  ,1.451099
+img_23.png,rot_img_23_level_08.png  ,1.8373
+img_23.png,rot_img_23_level_09.png  ,1.899083
+img_23.png,rot_img_23_level_10.png  ,2.342641
+img_24.png,rot_img_24_level_01.png  ,0
+img_24.png,rot_img_24_level_02.png  ,0.2657514
+img_24.png,rot_img_24_level_03.png  ,0.8534282
+img_24.png,rot_img_24_level_04.png  ,1.483609
+img_24.png,rot_img_24_level_05.png  ,1.596533
+img_24.png,rot_img_24_level_06.png  ,1.615113
+img_24.png,rot_img_24_level_07.png  ,2.034704
+img_24.png,rot_img_24_level_08.png  ,2.190993
+img_24.png,rot_img_24_level_09.png  ,2.182663
+img_24.png,rot_img_24_level_10.png  ,2.344706
+img_01.png,trans_img_01_level_01.png,0
+img_01.png,trans_img_01_level_02.png,0.2190221
+img_01.png,trans_img_01_level_03.png,0.2179465
+img_01.png,trans_img_01_level_04.png,0.4442124
+img_01.png,trans_img_01_level_05.png,0.6404539
+img_01.png,trans_img_01_level_06.png,1.371273
+img_01.png,trans_img_01_level_07.png,1.281864
+img_01.png,trans_img_01_level_08.png,1.442632
+img_01.png,trans_img_01_level_09.png,1.667662
+img_01.png,trans_img_01_level_10.png,2.548845
+img_02.png,trans_img_02_level_01.png,0
+img_02.png,trans_img_02_level_02.png,0.5727645
+img_02.png,trans_img_02_level_03.png,0.7137245
+img_02.png,trans_img_02_level_04.png,0.8458344
+img_02.png,trans_img_02_level_05.png,1.145335
+img_02.png,trans_img_02_level_06.png,1.621578
+img_02.png,trans_img_02_level_07.png,1.84973
+img_02.png,trans_img_02_level_08.png,2.135868
+img_02.png,trans_img_02_level_09.png,2.193292
+img_02.png,trans_img_02_level_10.png,2.560004
+img_03.png,trans_img_03_level_01.png,0
+img_03.png,trans_img_03_level_02.png,0.1647239
+img_03.png,trans_img_03_level_03.png,0.5796994
+img_03.png,trans_img_03_level_04.png,0.713133
+img_03.png,trans_img_03_level_05.png,1.129252
+img_03.png,trans_img_03_level_06.png,1.239254
+img_03.png,trans_img_03_level_07.png,1.351124
+img_03.png,trans_img_03_level_08.png,1.778069
+img_03.png,trans_img_03_level_09.png,1.979065
+img_03.png,trans_img_03_level_10.png,2.446804
+img_04.png,trans_img_04_level_01.png,0
+img_04.png,trans_img_04_level_02.png,0.2578247
+img_04.png,trans_img_04_level_03.png,1.221313
+img_04.png,trans_img_04_level_04.png,1.020456
+img_04.png,trans_img_04_level_05.png,1.5769
+img_04.png,trans_img_04_level_06.png,2.046891
+img_04.png,trans_img_04_level_07.png,2.315675
+img_04.png,trans_img_04_level_08.png,2.056081
+img_04.png,trans_img_04_level_09.png,2.487021
+img_04.png,trans_img_04_level_10.png,2.349252
+img_05.png,trans_img_05_level_01.png,0
+img_05.png,trans_img_05_level_02.png,0.6055213
+img_05.png,trans_img_05_level_03.png,0.9419155
+img_05.png,trans_img_05_level_04.png,1.144666
+img_05.png,trans_img_05_level_05.png,1.964684
+img_05.png,trans_img_05_level_06.png,2.272948
+img_05.png,trans_img_05_level_07.png,2.732655
+img_05.png,trans_img_05_level_08.png,3.149664
+img_05.png,trans_img_05_level_09.png,3.554036
+img_05.png,trans_img_05_level_10.png,4.040517
+img_06.png,trans_img_06_level_01.png,0
+img_06.png,trans_img_06_level_02.png,0.597761
+img_06.png,trans_img_06_level_03.png,1.081311
+img_06.png,trans_img_06_level_04.png,1.304316
+img_06.png,trans_img_06_level_05.png,1.715409
+img_06.png,trans_img_06_level_06.png,2.114744
+img_06.png,trans_img_06_level_07.png,2.776328
+img_06.png,trans_img_06_level_08.png,3.284702
+img_06.png,trans_img_06_level_09.png,3.361903
+img_06.png,trans_img_06_level_10.png,4.365862
+img_07.png,trans_img_07_level_01.png,0
+img_07.png,trans_img_07_level_02.png,0.2622283
+img_07.png,trans_img_07_level_03.png,0.38285
+img_07.png,trans_img_07_level_04.png,0.5930919
+img_07.png,trans_img_07_level_05.png,0.8707242
+img_07.png,trans_img_07_level_06.png,1.365111
+img_07.png,trans_img_07_level_07.png,1.624875
+img_07.png,trans_img_07_level_08.png,1.49933
+img_07.png,trans_img_07_level_09.png,2.090026
+img_07.png,trans_img_07_level_10.png,2.47899
+img_08.png,trans_img_08_level_01.png,0
+img_08.png,trans_img_08_level_02.png,0.2064764
+img_08.png,trans_img_08_level_03.png,0.6762199
+img_08.png,trans_img_08_level_04.png,1.042744
+img_08.png,trans_img_08_level_05.png,1.661517
+img_08.png,trans_img_08_level_06.png,1.771811
+img_08.png,trans_img_08_level_07.png,1.90685
+img_08.png,trans_img_08_level_08.png,1.879887
+img_08.png,trans_img_08_level_09.png,2.007776
+img_08.png,trans_img_08_level_10.png,2.304151
+img_09.png,trans_img_09_level_01.png,0
+img_09.png,trans_img_09_level_02.png,0.1662697
+img_09.png,trans_img_09_level_03.png,0.2466045
+img_09.png,trans_img_09_level_04.png,0.701473
+img_09.png,trans_img_09_level_05.png,1.146173
+img_09.png,trans_img_09_level_06.png,1.37122
+img_09.png,trans_img_09_level_07.png,1.781093
+img_09.png,trans_img_09_level_08.png,1.840103
+img_09.png,trans_img_09_level_09.png,2.301308
+img_09.png,trans_img_09_level_10.png,2.672353
+img_10.png,trans_img_10_level_01.png,0
+img_10.png,trans_img_10_level_02.png,0.7806259
+img_10.png,trans_img_10_level_03.png,0.9909956
+img_10.png,trans_img_10_level_04.png,1.378811
+img_10.png,trans_img_10_level_05.png,1.898797
+img_10.png,trans_img_10_level_06.png,2.762504
+img_10.png,trans_img_10_level_07.png,2.65385
+img_10.png,trans_img_10_level_08.png,3.417933
+img_10.png,trans_img_10_level_09.png,4.013402
+img_10.png,trans_img_10_level_10.png,4.389416
+img_11.png,trans_img_11_level_01.png,0
+img_11.png,trans_img_11_level_02.png,0.1583225
+img_11.png,trans_img_11_level_03.png,0.6247306
+img_11.png,trans_img_11_level_04.png,0.7632483
+img_11.png,trans_img_11_level_05.png,1.283843
+img_11.png,trans_img_11_level_06.png,1.593159
+img_11.png,trans_img_11_level_07.png,2.250891
+img_11.png,trans_img_11_level_08.png,2.17282
+img_11.png,trans_img_11_level_09.png,2.95256
+img_11.png,trans_img_11_level_10.png,2.972572
+img_12.png,trans_img_12_level_01.png,0
+img_12.png,trans_img_12_level_02.png,0.8769364
+img_12.png,trans_img_12_level_03.png,1.726826
+img_12.png,trans_img_12_level_04.png,2.485942
+img_12.png,trans_img_12_level_05.png,2.662243
+img_12.png,trans_img_12_level_06.png,2.987348
+img_12.png,trans_img_12_level_07.png,3.290729
+img_12.png,trans_img_12_level_08.png,3.426939
+img_12.png,trans_img_12_level_09.png,3.370503
+img_12.png,trans_img_12_level_10.png,3.596425
+img_13.png,trans_img_13_level_01.png,0
+img_13.png,trans_img_13_level_02.png,0.8167275
+img_13.png,trans_img_13_level_03.png,1.363987
+img_13.png,trans_img_13_level_04.png,1.889391
+img_13.png,trans_img_13_level_05.png,1.978514
+img_13.png,trans_img_13_level_06.png,2.138403
+img_13.png,trans_img_13_level_07.png,2.753098
+img_13.png,trans_img_13_level_08.png,3.190893
+img_13.png,trans_img_13_level_09.png,3.67099
+img_13.png,trans_img_13_level_10.png,4.612704
+img_14.png,trans_img_14_level_01.png,0
+img_14.png,trans_img_14_level_02.png,0.2273376
+img_14.png,trans_img_14_level_03.png,0.447689
+img_14.png,trans_img_14_level_04.png,0.7241331
+img_14.png,trans_img_14_level_05.png,1.465099
+img_14.png,trans_img_14_level_06.png,1.523633
+img_14.png,trans_img_14_level_07.png,1.55464
+img_14.png,trans_img_14_level_08.png,1.870717
+img_14.png,trans_img_14_level_09.png,2.045893
+img_14.png,trans_img_14_level_10.png,2.320838
+img_15.png,trans_img_15_level_01.png,0
+img_15.png,trans_img_15_level_02.png,0.1524505
+img_15.png,trans_img_15_level_03.png,0.505132
+img_15.png,trans_img_15_level_04.png,0.3491782
+img_15.png,trans_img_15_level_05.png,0.9245467
+img_15.png,trans_img_15_level_06.png,1.243842
+img_15.png,trans_img_15_level_07.png,1.249413
+img_15.png,trans_img_15_level_08.png,1.587555
+img_15.png,trans_img_15_level_09.png,1.877573
+img_15.png,trans_img_15_level_10.png,2.216187
+img_16.png,trans_img_16_level_01.png,0
+img_16.png,trans_img_16_level_02.png,1.387919
+img_16.png,trans_img_16_level_03.png,2.010205
+img_16.png,trans_img_16_level_04.png,2.804586
+img_16.png,trans_img_16_level_05.png,3.025
+img_16.png,trans_img_16_level_06.png,3.572447
+img_16.png,trans_img_16_level_07.png,3.952595
+img_16.png,trans_img_16_level_08.png,3.77349
+img_16.png,trans_img_16_level_09.png,3.940876
+img_16.png,trans_img_16_level_10.png,4.155665
+img_17.png,trans_img_17_level_01.png,0
+img_17.png,trans_img_17_level_02.png,0.08990675
+img_17.png,trans_img_17_level_03.png,0.1587202
+img_17.png,trans_img_17_level_04.png,0.5664317
+img_17.png,trans_img_17_level_05.png,1.013065
+img_17.png,trans_img_17_level_06.png,1.241798
+img_17.png,trans_img_17_level_07.png,1.811314
+img_17.png,trans_img_17_level_08.png,2.472145
+img_17.png,trans_img_17_level_09.png,2.689046
+img_17.png,trans_img_17_level_10.png,3.160919
+img_18.png,trans_img_18_level_01.png,0
+img_18.png,trans_img_18_level_02.png,0.1471119
+img_18.png,trans_img_18_level_03.png,0.5378664
+img_18.png,trans_img_18_level_04.png,0.7732283
+img_18.png,trans_img_18_level_05.png,1.470089
+img_18.png,trans_img_18_level_06.png,1.5001
+img_18.png,trans_img_18_level_07.png,2.034658
+img_18.png,trans_img_18_level_08.png,2.388358
+img_18.png,trans_img_18_level_09.png,2.471591
+img_18.png,trans_img_18_level_10.png,2.61183
+img_19.png,trans_img_19_level_01.png,0
+img_19.png,trans_img_19_level_02.png,0.2154672
+img_19.png,trans_img_19_level_03.png,0.6111768
+img_19.png,trans_img_19_level_04.png,0.7081097
+img_19.png,trans_img_19_level_05.png,1.362297
+img_19.png,trans_img_19_level_06.png,1.328215
+img_19.png,trans_img_19_level_07.png,1.818233
+img_19.png,trans_img_19_level_08.png,2.049347
+img_19.png,trans_img_19_level_09.png,2.355546
+img_19.png,trans_img_19_level_10.png,2.632455
+img_20.png,trans_img_20_level_01.png,0
+img_20.png,trans_img_20_level_02.png,0.8497007
+img_20.png,trans_img_20_level_03.png,1.577179
+img_20.png,trans_img_20_level_04.png,2.037291
+img_20.png,trans_img_20_level_05.png,2.688394
+img_20.png,trans_img_20_level_06.png,2.812853
+img_20.png,trans_img_20_level_07.png,2.895673
+img_20.png,trans_img_20_level_08.png,2.947989
+img_20.png,trans_img_20_level_09.png,3.065541
+img_20.png,trans_img_20_level_10.png,3.19446
+img_21.png,trans_img_21_level_01.png,0
+img_21.png,trans_img_21_level_02.png,0.2040597
+img_21.png,trans_img_21_level_03.png,0.3446513
+img_21.png,trans_img_21_level_04.png,0.5614201
+img_21.png,trans_img_21_level_05.png,0.8876649
+img_21.png,trans_img_21_level_06.png,1.23044
+img_21.png,trans_img_21_level_07.png,1.340786
+img_21.png,trans_img_21_level_08.png,1.642935
+img_21.png,trans_img_21_level_09.png,2.10829
+img_21.png,trans_img_21_level_10.png,2.338509
+img_22.png,trans_img_22_level_01.png,0
+img_22.png,trans_img_22_level_02.png,0.7267705
+img_22.png,trans_img_22_level_03.png,0.7830099
+img_22.png,trans_img_22_level_04.png,1.446225
+img_22.png,trans_img_22_level_05.png,1.801251
+img_22.png,trans_img_22_level_06.png,2.465826
+img_22.png,trans_img_22_level_07.png,2.595887
+img_22.png,trans_img_22_level_08.png,2.901744
+img_22.png,trans_img_22_level_09.png,3.571713
+img_22.png,trans_img_22_level_10.png,3.61756
+img_23.png,trans_img_23_level_01.png,0
+img_23.png,trans_img_23_level_02.png,-0.0279563
+img_23.png,trans_img_23_level_03.png,0.6558598
+img_23.png,trans_img_23_level_04.png,0.8173689
+img_23.png,trans_img_23_level_05.png,1.192922
+img_23.png,trans_img_23_level_06.png,1.434909
+img_23.png,trans_img_23_level_07.png,1.887723
+img_23.png,trans_img_23_level_08.png,2.353248
+img_23.png,trans_img_23_level_09.png,2.657257
+img_23.png,trans_img_23_level_10.png,3.119016
+img_24.png,trans_img_24_level_01.png,0
+img_24.png,trans_img_24_level_02.png,0.8363152
+img_24.png,trans_img_24_level_03.png,1.272861
+img_24.png,trans_img_24_level_04.png,1.868771
+img_24.png,trans_img_24_level_05.png,2.105613
+img_24.png,trans_img_24_level_06.png,2.509906
+img_24.png,trans_img_24_level_07.png,2.703359
+img_24.png,trans_img_24_level_08.png,2.796483
+img_24.png,trans_img_24_level_09.png,2.913305
+img_24.png,trans_img_24_level_10.png,3.140134
+img_01.png,scale_img_01_level_01.png,0
+img_01.png,scale_img_01_level_02.png,0.1784658
+img_01.png,scale_img_01_level_03.png,0.3749839
+img_01.png,scale_img_01_level_04.png,0.8088189
+img_01.png,scale_img_01_level_05.png,1.171776
+img_01.png,scale_img_01_level_06.png,1.687611
+img_01.png,scale_img_01_level_07.png,2.023847
+img_01.png,scale_img_01_level_08.png,2.449464
+img_01.png,scale_img_01_level_09.png,3.133529
+img_01.png,scale_img_01_level_10.png,3.268625
+img_02.png,scale_img_02_level_01.png,0
+img_02.png,scale_img_02_level_02.png,0.3202397
+img_02.png,scale_img_02_level_03.png,0.4923623
+img_02.png,scale_img_02_level_04.png,0.5740565
+img_02.png,scale_img_02_level_05.png,0.8279207
+img_02.png,scale_img_02_level_06.png,1.227024
+img_02.png,scale_img_02_level_07.png,1.667138
+img_02.png,scale_img_02_level_08.png,1.676973
+img_02.png,scale_img_02_level_09.png,1.953693
+img_02.png,scale_img_02_level_10.png,2.345963
+img_03.png,scale_img_03_level_01.png,0
+img_03.png,scale_img_03_level_02.png,0.1164689
+img_03.png,scale_img_03_level_03.png,0.4338955
+img_03.png,scale_img_03_level_04.png,0.8317623
+img_03.png,scale_img_03_level_05.png,1.16457
+img_03.png,scale_img_03_level_06.png,1.342137
+img_03.png,scale_img_03_level_07.png,2.062688
+img_03.png,scale_img_03_level_08.png,1.699317
+img_03.png,scale_img_03_level_09.png,2.237216
+img_03.png,scale_img_03_level_10.png,2.596284
+img_04.png,scale_img_04_level_01.png,0
+img_04.png,scale_img_04_level_02.png,0.3802615
+img_04.png,scale_img_04_level_03.png,0.4696277
+img_04.png,scale_img_04_level_04.png,1.03093
+img_04.png,scale_img_04_level_05.png,1.221599
+img_04.png,scale_img_04_level_06.png,1.162978
+img_04.png,scale_img_04_level_07.png,1.553685
+img_04.png,scale_img_04_level_08.png,1.520272
+img_04.png,scale_img_04_level_09.png,1.977687
+img_04.png,scale_img_04_level_10.png,1.990241
+img_05.png,scale_img_05_level_01.png,0
+img_05.png,scale_img_05_level_02.png,0.7162428
+img_05.png,scale_img_05_level_03.png,1.400033
+img_05.png,scale_img_05_level_04.png,1.53776
+img_05.png,scale_img_05_level_05.png,2.130653
+img_05.png,scale_img_05_level_06.png,2.129107
+img_05.png,scale_img_05_level_07.png,2.612971
+img_05.png,scale_img_05_level_08.png,2.609893
+img_05.png,scale_img_05_level_09.png,2.886502
+img_05.png,scale_img_05_level_10.png,3.136058
+img_06.png,scale_img_06_level_01.png,0
+img_06.png,scale_img_06_level_02.png,0.5758682
+img_06.png,scale_img_06_level_03.png,0.6146114
+img_06.png,scale_img_06_level_04.png,1.169317
+img_06.png,scale_img_06_level_05.png,1.616753
+img_06.png,scale_img_06_level_06.png,2.076498
+img_06.png,scale_img_06_level_07.png,2.760775
+img_06.png,scale_img_06_level_08.png,2.826562
+img_06.png,scale_img_06_level_09.png,3.319614
+img_06.png,scale_img_06_level_10.png,4.002471
+img_07.png,scale_img_07_level_01.png,0
+img_07.png,scale_img_07_level_02.png,-0.01291962
+img_07.png,scale_img_07_level_03.png,0.2960759
+img_07.png,scale_img_07_level_04.png,0.7109804
+img_07.png,scale_img_07_level_05.png,0.9784983
+img_07.png,scale_img_07_level_06.png,1.300696
+img_07.png,scale_img_07_level_07.png,1.40806
+img_07.png,scale_img_07_level_08.png,1.671445
+img_07.png,scale_img_07_level_09.png,1.75181
+img_07.png,scale_img_07_level_10.png,2.103294
+img_08.png,scale_img_08_level_01.png,0
+img_08.png,scale_img_08_level_02.png,0.4849879
+img_08.png,scale_img_08_level_03.png,0.9177152
+img_08.png,scale_img_08_level_04.png,1.335463
+img_08.png,scale_img_08_level_05.png,1.96533
+img_08.png,scale_img_08_level_06.png,1.7035
+img_08.png,scale_img_08_level_07.png,2.01326
+img_08.png,scale_img_08_level_08.png,2.32953
+img_08.png,scale_img_08_level_09.png,2.372597
+img_08.png,scale_img_08_level_10.png,2.582639
+img_09.png,scale_img_09_level_01.png,0
+img_09.png,scale_img_09_level_02.png,0.4447181
+img_09.png,scale_img_09_level_03.png,0.6514152
+img_09.png,scale_img_09_level_04.png,0.9681956
+img_09.png,scale_img_09_level_05.png,1.190649
+img_09.png,scale_img_09_level_06.png,1.962298
+img_09.png,scale_img_09_level_07.png,2.139518
+img_09.png,scale_img_09_level_08.png,2.788161
+img_09.png,scale_img_09_level_09.png,3.200365
+img_09.png,scale_img_09_level_10.png,3.440001
+img_10.png,scale_img_10_level_01.png,0
+img_10.png,scale_img_10_level_02.png,0.01302454
+img_10.png,scale_img_10_level_03.png,0.6191512
+img_10.png,scale_img_10_level_04.png,1.161333
+img_10.png,scale_img_10_level_05.png,1.330102
+img_10.png,scale_img_10_level_06.png,1.429481
+img_10.png,scale_img_10_level_07.png,1.680511
+img_10.png,scale_img_10_level_08.png,2.468836
+img_10.png,scale_img_10_level_09.png,2.533528
+img_10.png,scale_img_10_level_10.png,3.035786
+img_11.png,scale_img_11_level_01.png,0
+img_11.png,scale_img_11_level_02.png,0.2933557
+img_11.png,scale_img_11_level_03.png,0.6886194
+img_11.png,scale_img_11_level_04.png,0.8684141
+img_11.png,scale_img_11_level_05.png,0.9627029
+img_11.png,scale_img_11_level_06.png,1.230923
+img_11.png,scale_img_11_level_07.png,1.534939
+img_11.png,scale_img_11_level_08.png,1.758916
+img_11.png,scale_img_11_level_09.png,2.04135
+img_11.png,scale_img_11_level_10.png,2.446175
+img_12.png,scale_img_12_level_01.png,0
+img_12.png,scale_img_12_level_02.png,1.134877
+img_12.png,scale_img_12_level_03.png,2.192862
+img_12.png,scale_img_12_level_04.png,3.188298
+img_12.png,scale_img_12_level_05.png,2.740341
+img_12.png,scale_img_12_level_06.png,3.65202
+img_12.png,scale_img_12_level_07.png,3.980934
+img_12.png,scale_img_12_level_08.png,4.201979
+img_12.png,scale_img_12_level_09.png,3.981339
+img_12.png,scale_img_12_level_10.png,4.236769
+img_13.png,scale_img_13_level_01.png,0
+img_13.png,scale_img_13_level_02.png,0.5872511
+img_13.png,scale_img_13_level_03.png,1.584775
+img_13.png,scale_img_13_level_04.png,1.724676
+img_13.png,scale_img_13_level_05.png,2.405344
+img_13.png,scale_img_13_level_06.png,2.93566
+img_13.png,scale_img_13_level_07.png,3.860407
+img_13.png,scale_img_13_level_08.png,4.174556
+img_13.png,scale_img_13_level_09.png,4.871004
+img_13.png,scale_img_13_level_10.png,5.291199
+img_14.png,scale_img_14_level_01.png,0
+img_14.png,scale_img_14_level_02.png,0.4482411
+img_14.png,scale_img_14_level_03.png,0.556147
+img_14.png,scale_img_14_level_04.png,1.462883
+img_14.png,scale_img_14_level_05.png,1.46187
+img_14.png,scale_img_14_level_06.png,2.115039
+img_14.png,scale_img_14_level_07.png,2.193229
+img_14.png,scale_img_14_level_08.png,2.941601
+img_14.png,scale_img_14_level_09.png,3.031855
+img_14.png,scale_img_14_level_10.png,3.677676
+img_15.png,scale_img_15_level_01.png,0
+img_15.png,scale_img_15_level_02.png,0.1529883
+img_15.png,scale_img_15_level_03.png,0.3972079
+img_15.png,scale_img_15_level_04.png,0.6439487
+img_15.png,scale_img_15_level_05.png,0.7312172
+img_15.png,scale_img_15_level_06.png,1.254108
+img_15.png,scale_img_15_level_07.png,0.9048316
+img_15.png,scale_img_15_level_08.png,1.343351
+img_15.png,scale_img_15_level_09.png,1.707227
+img_15.png,scale_img_15_level_10.png,1.825893
+img_16.png,scale_img_16_level_01.png,0
+img_16.png,scale_img_16_level_02.png,1.614137
+img_16.png,scale_img_16_level_03.png,2.804459
+img_16.png,scale_img_16_level_04.png,3.90012
+img_16.png,scale_img_16_level_05.png,3.904425
+img_16.png,scale_img_16_level_06.png,4.337266
+img_16.png,scale_img_16_level_07.png,4.646448
+img_16.png,scale_img_16_level_08.png,4.627581
+img_16.png,scale_img_16_level_09.png,5.271144
+img_16.png,scale_img_16_level_10.png,5.298551
+img_17.png,scale_img_17_level_01.png,0
+img_17.png,scale_img_17_level_02.png,0.08064157
+img_17.png,scale_img_17_level_03.png,0.2788979
+img_17.png,scale_img_17_level_04.png,0.4070628
+img_17.png,scale_img_17_level_05.png,0.9680653
+img_17.png,scale_img_17_level_06.png,1.224561
+img_17.png,scale_img_17_level_07.png,1.513268
+img_17.png,scale_img_17_level_08.png,1.787208
+img_17.png,scale_img_17_level_09.png,2.296912
+img_17.png,scale_img_17_level_10.png,2.658624
+img_18.png,scale_img_18_level_01.png,0
+img_18.png,scale_img_18_level_02.png,0.09605299
+img_18.png,scale_img_18_level_03.png,0.4711297
+img_18.png,scale_img_18_level_04.png,0.7528963
+img_18.png,scale_img_18_level_05.png,1.056086
+img_18.png,scale_img_18_level_06.png,1.086267
+img_18.png,scale_img_18_level_07.png,1.616663
+img_18.png,scale_img_18_level_08.png,2.011306
+img_18.png,scale_img_18_level_09.png,2.320991
+img_18.png,scale_img_18_level_10.png,2.618795
+img_19.png,scale_img_19_level_01.png,0
+img_19.png,scale_img_19_level_02.png,0.4550422
+img_19.png,scale_img_19_level_03.png,0.6009589
+img_19.png,scale_img_19_level_04.png,1.082686
+img_19.png,scale_img_19_level_05.png,1.103363
+img_19.png,scale_img_19_level_06.png,1.6654
+img_19.png,scale_img_19_level_07.png,2.181362
+img_19.png,scale_img_19_level_08.png,2.267275
+img_19.png,scale_img_19_level_09.png,2.493491
+img_19.png,scale_img_19_level_10.png,3.182318
+img_20.png,scale_img_20_level_01.png,0
+img_20.png,scale_img_20_level_02.png,0.4701936
+img_20.png,scale_img_20_level_03.png,1.788022
+img_20.png,scale_img_20_level_04.png,2.362278
+img_20.png,scale_img_20_level_05.png,3.143375
+img_20.png,scale_img_20_level_06.png,3.371765
+img_20.png,scale_img_20_level_07.png,3.6613
+img_20.png,scale_img_20_level_08.png,4.10313
+img_20.png,scale_img_20_level_09.png,3.867335
+img_20.png,scale_img_20_level_10.png,4.145835
+img_21.png,scale_img_21_level_01.png,0
+img_21.png,scale_img_21_level_02.png,0.174063
+img_21.png,scale_img_21_level_03.png,0.6120496
+img_21.png,scale_img_21_level_04.png,0.6269814
+img_21.png,scale_img_21_level_05.png,1.346076
+img_21.png,scale_img_21_level_06.png,1.32749
+img_21.png,scale_img_21_level_07.png,1.628887
+img_21.png,scale_img_21_level_08.png,1.944218
+img_21.png,scale_img_21_level_09.png,2.099611
+img_21.png,scale_img_21_level_10.png,2.661797
+img_22.png,scale_img_22_level_01.png,0
+img_22.png,scale_img_22_level_02.png,0.7353819
+img_22.png,scale_img_22_level_03.png,1.044815
+img_22.png,scale_img_22_level_04.png,1.262443
+img_22.png,scale_img_22_level_05.png,1.514377
+img_22.png,scale_img_22_level_06.png,2.223722
+img_22.png,scale_img_22_level_07.png,2.925533
+img_22.png,scale_img_22_level_08.png,2.934735
+img_22.png,scale_img_22_level_09.png,3.813793
+img_22.png,scale_img_22_level_10.png,4.211993
+img_23.png,scale_img_23_level_01.png,0
+img_23.png,scale_img_23_level_02.png,0.3166227
+img_23.png,scale_img_23_level_03.png,0.8160716
+img_23.png,scale_img_23_level_04.png,1.126514
+img_23.png,scale_img_23_level_05.png,1.172152
+img_23.png,scale_img_23_level_06.png,1.960282
+img_23.png,scale_img_23_level_07.png,2.269752
+img_23.png,scale_img_23_level_08.png,2.442405
+img_23.png,scale_img_23_level_09.png,2.629687
+img_23.png,scale_img_23_level_10.png,3.099936
+img_24.png,scale_img_24_level_01.png,0
+img_24.png,scale_img_24_level_02.png,0.4888589
+img_24.png,scale_img_24_level_03.png,1.291522
+img_24.png,scale_img_24_level_04.png,1.691717
+img_24.png,scale_img_24_level_05.png,2.139308
+img_24.png,scale_img_24_level_06.png,2.458013
+img_24.png,scale_img_24_level_07.png,2.384439
+img_24.png,scale_img_24_level_08.png,2.966102
+img_24.png,scale_img_24_level_09.png,2.805129
+img_24.png,scale_img_24_level_10.png,3.155376
+img_01.png,gn_img_01_level_01.png   ,0
+img_01.png,gn_img_01_level_02.png   ,0.001824923
+img_01.png,gn_img_01_level_03.png   ,0.2578065
+img_01.png,gn_img_01_level_04.png   ,0.458992
+img_01.png,gn_img_01_level_05.png   ,0.9794797
+img_01.png,gn_img_01_level_06.png   ,1.161032
+img_01.png,gn_img_01_level_07.png   ,1.08238
+img_01.png,gn_img_01_level_08.png   ,1.482838
+img_01.png,gn_img_01_level_09.png   ,1.746893
+img_01.png,gn_img_01_level_10.png   ,2.004604
+img_02.png,gn_img_02_level_01.png   ,0
+img_02.png,gn_img_02_level_02.png   ,0.1162589
+img_02.png,gn_img_02_level_03.png   ,0.6938425
+img_02.png,gn_img_02_level_04.png   ,1.036359
+img_02.png,gn_img_02_level_05.png   ,1.267004
+img_02.png,gn_img_02_level_06.png   ,1.599992
+img_02.png,gn_img_02_level_07.png   ,1.890538
+img_02.png,gn_img_02_level_08.png   ,1.988288
+img_02.png,gn_img_02_level_09.png   ,2.725834
+img_02.png,gn_img_02_level_10.png   ,3.042097
+img_03.png,gn_img_03_level_01.png   ,0
+img_03.png,gn_img_03_level_02.png   ,0.1216186
+img_03.png,gn_img_03_level_03.png   ,0.6009614
+img_03.png,gn_img_03_level_04.png   ,0.844331
+img_03.png,gn_img_03_level_05.png   ,1.650927
+img_03.png,gn_img_03_level_06.png   ,1.768804
+img_03.png,gn_img_03_level_07.png   ,2.30389
+img_03.png,gn_img_03_level_08.png   ,2.588553
+img_03.png,gn_img_03_level_09.png   ,3.118985
+img_03.png,gn_img_03_level_10.png   ,3.130285
+img_04.png,gn_img_04_level_01.png   ,0
+img_04.png,gn_img_04_level_02.png   ,1.226858
+img_04.png,gn_img_04_level_03.png   ,1.76113
+img_04.png,gn_img_04_level_04.png   ,2.354198
+img_04.png,gn_img_04_level_05.png   ,2.987151
+img_04.png,gn_img_04_level_06.png   ,3.050133
+img_04.png,gn_img_04_level_07.png   ,3.471357
+img_04.png,gn_img_04_level_08.png   ,3.63955
+img_04.png,gn_img_04_level_09.png   ,3.741166
+img_04.png,gn_img_04_level_10.png   ,3.804391
+img_05.png,gn_img_05_level_01.png   ,0
+img_05.png,gn_img_05_level_02.png   ,0.5590242
+img_05.png,gn_img_05_level_03.png   ,0.6997792
+img_05.png,gn_img_05_level_04.png   ,1.205423
+img_05.png,gn_img_05_level_05.png   ,1.414481
+img_05.png,gn_img_05_level_06.png   ,1.883966
+img_05.png,gn_img_05_level_07.png   ,2.115921
+img_05.png,gn_img_05_level_08.png   ,2.655788
+img_05.png,gn_img_05_level_09.png   ,2.636179
+img_05.png,gn_img_05_level_10.png   ,3.554865
+img_06.png,gn_img_06_level_01.png   ,0
+img_06.png,gn_img_06_level_02.png   ,0.7018004
+img_06.png,gn_img_06_level_03.png   ,0.8274045
+img_06.png,gn_img_06_level_04.png   ,1.54613
+img_06.png,gn_img_06_level_05.png   ,1.96542
+img_06.png,gn_img_06_level_06.png   ,2.544847
+img_06.png,gn_img_06_level_07.png   ,2.643217
+img_06.png,gn_img_06_level_08.png   ,3.387791
+img_06.png,gn_img_06_level_09.png   ,3.468344
+img_06.png,gn_img_06_level_10.png   ,3.614794
+img_07.png,gn_img_07_level_01.png   ,0
+img_07.png,gn_img_07_level_02.png   ,0.3226994
+img_07.png,gn_img_07_level_03.png   ,0.3854434
+img_07.png,gn_img_07_level_04.png   ,0.6281464
+img_07.png,gn_img_07_level_05.png   ,1.264177
+img_07.png,gn_img_07_level_06.png   ,1.021652
+img_07.png,gn_img_07_level_07.png   ,1.389264
+img_07.png,gn_img_07_level_08.png   ,1.641107
+img_07.png,gn_img_07_level_09.png   ,2.084875
+img_07.png,gn_img_07_level_10.png   ,2.193245
+img_08.png,gn_img_08_level_01.png   ,0
+img_08.png,gn_img_08_level_02.png   ,0.6884379
+img_08.png,gn_img_08_level_03.png   ,1.411588
+img_08.png,gn_img_08_level_04.png   ,1.902674
+img_08.png,gn_img_08_level_05.png   ,2.007128
+img_08.png,gn_img_08_level_06.png   ,2.577493
+img_08.png,gn_img_08_level_07.png   ,2.686476
+img_08.png,gn_img_08_level_08.png   ,2.900126
+img_08.png,gn_img_08_level_09.png   ,2.997448
+img_08.png,gn_img_08_level_10.png   ,3.215072
+img_09.png,gn_img_09_level_01.png   ,0
+img_09.png,gn_img_09_level_02.png   ,0.2039386
+img_09.png,gn_img_09_level_03.png   ,0.4789876
+img_09.png,gn_img_09_level_04.png   ,0.9982797
+img_09.png,gn_img_09_level_05.png   ,1.628256
+img_09.png,gn_img_09_level_06.png   ,1.955254
+img_09.png,gn_img_09_level_07.png   ,2.550527
+img_09.png,gn_img_09_level_08.png   ,2.926892
+img_09.png,gn_img_09_level_09.png   ,3.71223
+img_09.png,gn_img_09_level_10.png   ,4.243419
+img_10.png,gn_img_10_level_01.png   ,0
+img_10.png,gn_img_10_level_02.png   ,0.4730806
+img_10.png,gn_img_10_level_03.png   ,0.6363651
+img_10.png,gn_img_10_level_04.png   ,1.450791
+img_10.png,gn_img_10_level_05.png   ,1.88028
+img_10.png,gn_img_10_level_06.png   ,1.888745
+img_10.png,gn_img_10_level_07.png   ,2.149754
+img_10.png,gn_img_10_level_08.png   ,2.53265
+img_10.png,gn_img_10_level_09.png   ,3.255436
+img_10.png,gn_img_10_level_10.png   ,3.547899
+img_11.png,gn_img_11_level_01.png   ,0
+img_11.png,gn_img_11_level_02.png   ,0.2255138
+img_11.png,gn_img_11_level_03.png   ,0.2983555
+img_11.png,gn_img_11_level_04.png   ,0.8659167
+img_11.png,gn_img_11_level_05.png   ,1.127511
+img_11.png,gn_img_11_level_06.png   ,1.133741
+img_11.png,gn_img_11_level_07.png   ,1.724153
+img_11.png,gn_img_11_level_08.png   ,1.921785
+img_11.png,gn_img_11_level_09.png   ,2.351003
+img_11.png,gn_img_11_level_10.png   ,2.546566
+img_12.png,gn_img_12_level_01.png   ,0
+img_12.png,gn_img_12_level_02.png   ,0.6215113
+img_12.png,gn_img_12_level_03.png   ,1.377264
+img_12.png,gn_img_12_level_04.png   ,1.965387
+img_12.png,gn_img_12_level_05.png   ,2.479378
+img_12.png,gn_img_12_level_06.png   ,2.70061
+img_12.png,gn_img_12_level_07.png   ,2.906324
+img_12.png,gn_img_12_level_08.png   ,3.196746
+img_12.png,gn_img_12_level_09.png   ,3.256613
+img_12.png,gn_img_12_level_10.png   ,3.184183
+img_13.png,gn_img_13_level_01.png   ,0
+img_13.png,gn_img_13_level_02.png   ,0.4457531
+img_13.png,gn_img_13_level_03.png   ,0.9200353
+img_13.png,gn_img_13_level_04.png   ,1.361586
+img_13.png,gn_img_13_level_05.png   ,1.688383
+img_13.png,gn_img_13_level_06.png   ,1.96628
+img_13.png,gn_img_13_level_07.png   ,2.538136
+img_13.png,gn_img_13_level_08.png   ,2.78571
+img_13.png,gn_img_13_level_09.png   ,3.220959
+img_13.png,gn_img_13_level_10.png   ,3.753752
+img_14.png,gn_img_14_level_01.png   ,0
+img_14.png,gn_img_14_level_02.png   ,0.4132004
+img_14.png,gn_img_14_level_03.png   ,1.020638
+img_14.png,gn_img_14_level_04.png   ,1.363288
+img_14.png,gn_img_14_level_05.png   ,1.902253
+img_14.png,gn_img_14_level_06.png   ,2.219763
+img_14.png,gn_img_14_level_07.png   ,2.708873
+img_14.png,gn_img_14_level_08.png   ,3.162858
+img_14.png,gn_img_14_level_09.png   ,3.519266
+img_14.png,gn_img_14_level_10.png   ,4.018551
+img_15.png,gn_img_15_level_01.png   ,0
+img_15.png,gn_img_15_level_02.png   ,0.2962567
+img_15.png,gn_img_15_level_03.png   ,0.633366
+img_15.png,gn_img_15_level_04.png   ,0.905501
+img_15.png,gn_img_15_level_05.png   ,1.325201
+img_15.png,gn_img_15_level_06.png   ,1.494377
+img_15.png,gn_img_15_level_07.png   ,1.948174
+img_15.png,gn_img_15_level_08.png   ,2.48849
+img_15.png,gn_img_15_level_09.png   ,2.33944
+img_15.png,gn_img_15_level_10.png   ,2.983532
+img_16.png,gn_img_16_level_01.png   ,0
+img_16.png,gn_img_16_level_02.png   ,0.768367
+img_16.png,gn_img_16_level_03.png   ,1.70303
+img_16.png,gn_img_16_level_04.png   ,2.117034
+img_16.png,gn_img_16_level_05.png   ,2.634041
+img_16.png,gn_img_16_level_06.png   ,3.518011
+img_16.png,gn_img_16_level_07.png   ,3.16632
+img_16.png,gn_img_16_level_08.png   ,3.154143
+img_16.png,gn_img_16_level_09.png   ,3.710672
+img_16.png,gn_img_16_level_10.png   ,3.712259
+img_17.png,gn_img_17_level_01.png   ,0
+img_17.png,gn_img_17_level_02.png   ,0.1941937
+img_17.png,gn_img_17_level_03.png   ,0.7697002
+img_17.png,gn_img_17_level_04.png   ,0.6290475
+img_17.png,gn_img_17_level_05.png   ,0.9795745
+img_17.png,gn_img_17_level_06.png   ,0.9732035
+img_17.png,gn_img_17_level_07.png   ,1.155366
+img_17.png,gn_img_17_level_08.png   ,1.545382
+img_17.png,gn_img_17_level_09.png   ,1.86968
+img_17.png,gn_img_17_level_10.png   ,2.202598
+img_18.png,gn_img_18_level_01.png   ,0
+img_18.png,gn_img_18_level_02.png   ,0.5177927
+img_18.png,gn_img_18_level_03.png   ,0.9278415
+img_18.png,gn_img_18_level_04.png   ,1.499645
+img_18.png,gn_img_18_level_05.png   ,2.097467
+img_18.png,gn_img_18_level_06.png   ,2.49574
+img_18.png,gn_img_18_level_07.png   ,3.201732
+img_18.png,gn_img_18_level_08.png   ,3.961505
+img_18.png,gn_img_18_level_09.png   ,4.421341
+img_18.png,gn_img_18_level_10.png   ,5.267495
+img_19.png,gn_img_19_level_01.png   ,0
+img_19.png,gn_img_19_level_02.png   ,0.220016
+img_19.png,gn_img_19_level_03.png   ,0.1127744
+img_19.png,gn_img_19_level_04.png   ,0.5989431
+img_19.png,gn_img_19_level_05.png   ,1.019384
+img_19.png,gn_img_19_level_06.png   ,0.7336105
+img_19.png,gn_img_19_level_07.png   ,1.224607
+img_19.png,gn_img_19_level_08.png   ,1.891004
+img_19.png,gn_img_19_level_09.png   ,2.094988
+img_19.png,gn_img_19_level_10.png   ,2.116084
+img_20.png,gn_img_20_level_01.png   ,0
+img_20.png,gn_img_20_level_02.png   ,1.114838
+img_20.png,gn_img_20_level_03.png   ,1.431476
+img_20.png,gn_img_20_level_04.png   ,2.148997
+img_20.png,gn_img_20_level_05.png   ,2.251791
+img_20.png,gn_img_20_level_06.png   ,2.526635
+img_20.png,gn_img_20_level_07.png   ,2.4769
+img_20.png,gn_img_20_level_08.png   ,2.808423
+img_20.png,gn_img_20_level_09.png   ,3.079531
+img_20.png,gn_img_20_level_10.png   ,3.120336
+img_21.png,gn_img_21_level_01.png   ,0
+img_21.png,gn_img_21_level_02.png   ,0.536845
+img_21.png,gn_img_21_level_03.png   ,0.8191535
+img_21.png,gn_img_21_level_04.png   ,1.112769
+img_21.png,gn_img_21_level_05.png   ,1.540138
+img_21.png,gn_img_21_level_06.png   ,2.017682
+img_21.png,gn_img_21_level_07.png   ,2.606425
+img_21.png,gn_img_21_level_08.png   ,2.898361
+img_21.png,gn_img_21_level_09.png   ,3.375193
+img_21.png,gn_img_21_level_10.png   ,3.985985
+img_22.png,gn_img_22_level_01.png   ,0
+img_22.png,gn_img_22_level_02.png   ,0.6897794
+img_22.png,gn_img_22_level_03.png   ,1.004807
+img_22.png,gn_img_22_level_04.png   ,1.12525
+img_22.png,gn_img_22_level_05.png   ,1.683287
+img_22.png,gn_img_22_level_06.png   ,2.208432
+img_22.png,gn_img_22_level_07.png   ,2.571018
+img_22.png,gn_img_22_level_08.png   ,3.249893
+img_22.png,gn_img_22_level_09.png   ,3.561177
+img_22.png,gn_img_22_level_10.png   ,4.170346
+img_23.png,gn_img_23_level_01.png   ,0
+img_23.png,gn_img_23_level_02.png   ,0.5091701
+img_23.png,gn_img_23_level_03.png   ,0.5784345
+img_23.png,gn_img_23_level_04.png   ,0.7729071
+img_23.png,gn_img_23_level_05.png   ,1.339145
+img_23.png,gn_img_23_level_06.png   ,1.293738
+img_23.png,gn_img_23_level_07.png   ,1.81565
+img_23.png,gn_img_23_level_08.png   ,2.305097
+img_23.png,gn_img_23_level_09.png   ,2.317096
+img_23.png,gn_img_23_level_10.png   ,2.698641
+img_24.png,gn_img_24_level_01.png   ,0
+img_24.png,gn_img_24_level_02.png   ,0.8951395
+img_24.png,gn_img_24_level_03.png   ,1.878802
+img_24.png,gn_img_24_level_04.png   ,2.550117
+img_24.png,gn_img_24_level_05.png   ,2.752052
+img_24.png,gn_img_24_level_06.png   ,3.02853
+img_24.png,gn_img_24_level_07.png   ,3.365545
+img_24.png,gn_img_24_level_08.png   ,3.744973
+img_24.png,gn_img_24_level_09.png   ,3.724303
+img_24.png,gn_img_24_level_10.png   ,3.793319

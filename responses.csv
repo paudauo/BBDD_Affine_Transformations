@@ -1,4 +1,4 @@
-ref,IMG_Distorted,res,sigs,res_esc,Var1
+Reference,Distorted,Curve_Value,Sigmas,Response,Estimated_MOS
 img_01.png,rot_img_01_level_01.png,0,0.2207109,0,5.590099
 img_01.png,rot_img_01_level_02.png,0.1139236,0.2207109,0.5161664,5.275201
 img_01.png,rot_img_01_level_03.png,0.1854712,0.2207109,0.8403355,5.077435

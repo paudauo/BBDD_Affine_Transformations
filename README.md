@@ -4,8 +4,7 @@
 This repository contains the data, code, and usage examples related to the article:
 
 **RAID-Database: Human Responses to Affine Image Distortions**  
-Paula Daudén-Oliver*, David Agost-Beltran, Emilio Sansano-Sansano, Raúl Montoliu, Valero Laparra, Jesús Malo, Marina Martínez-García  
-[*Scientific Data, Nature Portfolio (under review)*]
+Paula Daudén-Oliver*, David Agost-Beltran, Emilio Sansano-Sansano, Raúl Montoliu, Valero Laparra, Jesús Malo, Marina Martínez-García  (under review).
 
 ---
 
@@ -49,7 +48,7 @@ Subjective responses were collected using the psychophysical method **Maximum Li
 Our dataset was validated at multiple levels:
 1. Reproduction of **absolute detection thresholds** for each distortion type.
 2. Compliance with **Piéron’s law** (reaction time vs. task difficulty).
-3. Alignment with **existing databases** like TID2013, and improved performance as shown through **Group-MAD** experiments.
+3. Alignment with **existing databases** (TID2013), and improved performance as shown through **Group-MAD** experiments.
 
 ---
 
@@ -109,7 +108,5 @@ The following figure shows the perceptual response curves for each distortion ty
 As distortion level increases:
 - **Affine distortions** (rotation, translation, scaling) show an approximately **linear perceptual response**.
 - **Gaussian noise** exhibits a **saturating response**, aligning with established perceptual models.
-
-These curves illustrate how perceptual difference scales with objective distortion levels, offering a reliable benchmark for image quality assessment.
 
 ---

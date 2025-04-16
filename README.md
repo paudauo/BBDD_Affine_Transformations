@@ -87,7 +87,7 @@ If you use this database or code, please cite the corresponding article (when av
 
 ## 🧪 Experimental Design & Results
 
-### 👁️ Figure 2 — Example Trial: MLDS Psychophysical Task
+### 👁️ Example Trial: MLDS Psychophysical Task
 
 In each trial, participants were shown **two pairs of images** (quadruple display): one pair on the left and one on the right. Their task was to **choose the pair that showed a larger perceptual difference**. Each trial involved 4 distorted versions of the same reference image, and trials were designed to balance difficulty and prevent trivial answers.
 
@@ -97,7 +97,7 @@ A total of **210 observers** completed over **40,000 trials**, under controlled 
 
 ---
 
-### 📈 Figure 3 — MLDS Response Curves
+### 📈  MLDS Response Curves
 
 The following figure shows the perceptual response curves for each distortion type (**rotation**, **translation**, **scaling**, and **Gaussian noise**), computed using the **Maximum Likelihood Difference Scaling (MLDS)** method.
 

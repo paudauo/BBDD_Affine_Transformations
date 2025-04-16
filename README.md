@@ -1,7 +1,7 @@
 
 # RAID: Human Responses to Affine Image Distortions
 
-This repository contains the data, code, and usage examples related to the article:
+This repository contains the data, code, and usage examples related to the article (under review):
 
 **RAID-Database: Human Responses to Affine Image Distortions**  
 Paula Daudén-Oliver*, David Agost-Beltran, Emilio Sansano-Sansano, Raúl Montoliu, Valero Laparra, Jesús Malo, Marina Martínez-García  
@@ -72,4 +72,4 @@ The code is released under the **Apache 2.0 License**.
 
 If you use this database or code, please cite the corresponding article (when available). In the meantime, you may reference it as:
 
-> Daudén-Oliver, P. et al. *RAID-Database: Human Responses to Affine Image Distortions*. Scientific Data (under review). GitHub: https://github.com/paudauo/BBDD_Affine_Transformations
+> Daudén-Oliver, P. et al. *RAID-Database: Human Responses to Affine Image Distortions* (under review). GitHub: https://github.com/paudauo/BBDD_Affine_Transformations

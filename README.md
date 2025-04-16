@@ -101,8 +101,8 @@ A total of **210 observers** completed over **40,000 trials**, under controlled 
 
 The following figure shows the perceptual response curves for each distortion type (**rotation**, **translation**, **scaling**, and **Gaussian noise**), computed using the **Maximum Likelihood Difference Scaling (MLDS)** method.
 
-![Figure 3: MLDS response curves per distortion](figure_3_mlds_curves.png)
-(figure_refs.png)
+![Figure 3: MLDS response curves per distortion](figure_refs.png,figure_3_mlds_curves.png)
+
 
 As distortion level increases:
 - **Affine distortions** (rotation, translation, scaling) show an approximately **linear perceptual response**.

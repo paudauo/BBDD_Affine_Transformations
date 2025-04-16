@@ -103,6 +103,10 @@ The following figure shows the perceptual response curves for each distortion ty
 
 ![Figure 3: MLDS response curves per distortion](figure_refs.png)
 
+<p align="center">
+  <img src="figure_refs.png" width="45%" alt="MLDS trial">
+  <img src="figure_3_mlds_curves.png" width="45%" alt="MLDS curves">
+</p>
 
 As distortion level increases:
 - **Affine distortions** (rotation, translation, scaling) show an approximately **linear perceptual response**.

@@ -5,7 +5,6 @@ This repository contains the data, code, and usage examples related to the artic
 
 **RAID-Database: Human Responses to Affine Image Distortions**  
 Paula Daudén-Oliver*, David Agost-Beltran, Emilio Sansano-Sansano, Raúl Montoliu, Valero Laparra, Jesús Malo, Marina Martínez-García  
-[*Scientific Data, Nature Portfolio (under review)*]
 
 ---
 
@@ -21,7 +20,7 @@ Subjective responses were collected using the psychophysical method **Maximum Li
 
 - `answers.csv`: Raw experimental data (individual responses from observers).
 - `responses.csv`: MLDS response curves per image, distortion, and distortion level (normalized).
-- `images/`: Original and distorted images (available via HuggingFace).
+- `images/`: Original and distorted images (available via HuggingFace: https://huggingface.co/datasets/paudauo/Affine_Transformation_Database).
 - `notebooks/`:
   - `Load_DDBB_example.ipynb`: Load images and responses.
   - `Load_RAW_data_and_compute_MLDS.ipynb`: Compute MLDS curves from raw data.
@@ -50,13 +49,6 @@ Our dataset was validated at multiple levels:
 1. Reproduction of **absolute detection thresholds** for each distortion type.
 2. Compliance with **Piéron’s law** (reaction time vs. task difficulty).
 3. Alignment with **existing databases** like TID2013, and improved performance as shown through **Group-MAD** experiments.
-
----
-
-## 📥 Data Access
-
-The full dataset and images are available at:  
-📦 https://huggingface.co/datasets/paudauo/Affine_Transformation_Database
 
 ---
 

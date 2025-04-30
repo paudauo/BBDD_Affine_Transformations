@@ -20,7 +20,7 @@ Subjective responses were collected using the psychophysical method **Maximum Li
 
 - `answers.csv`: Raw experimental data (individual responses from observers).
 - `responses.csv`: MLDS response curves per image, distortion, and distortion level (normalized).
-- `images/`: Original and distorted images (available via HuggingFace).
+-  Original and distorted images (available via HuggingFace).
 - `notebooks/`:
   - `Load_DDBB_example.ipynb`: Load images and responses.
   - `Load_RAW_data_and_compute_MLDS.ipynb`: Compute MLDS curves from raw data.

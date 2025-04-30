@@ -20,24 +20,13 @@ Subjective responses were collected using the psychophysical method **Maximum Li
 
 - `answers.csv`: Raw experimental data (individual responses from observers).
 - `responses.csv`: MLDS response curves per image, distortion, and distortion level (normalized).
--  Original and distorted images (available via HuggingFace).
+- `images/`: Original and distorted images (available via [HuggingFace](https://huggingface.co/)).
 - `Notebooks/`:
-  - `Load_DDBB_example.ipynb`: Load images and responses.<a target="_blank"
-href="https://colab.research.google.com/github/paudauo/BBDD_Affine_Transformations/blob/main/Notebooks/Load_DDBB_example.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-  - `Load_RAW_data_and_compute_MLDS.ipynb`: Compute MLDS curves from raw data.<a target="_blank" href="https://colab.research.google.com/github/paudauo/BBDD_Affine_Transformations/blob/main/Notebooks/Load_RAW_data_and_compute_MLDS.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-  - `Load_MLDS_data_and_plot_curves.ipynb`: Plot normalized response curves.<a target="_blank" href="https://colab.research.google.com/github/paudauo/BBDD_Affine_Transformations/blob/main/Notebooks/Load_MLDS_data_and_plot_curves.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-  - `Convert_MLDS_to_MOS.ipynb`: Convert MLDS responses to MOS (aligned with TID2013).<a target="_blank" href="https://colab.research.google.com/github/paudauo/BBDD_Affine_Transformations/blob/main/Notebooks/Convert_MLDS_to_MOS.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-  - `Load_RAW_data_and_plot_left_right_RT.ipynb`: Analyze reaction times and decision patterns.<a target="_blank" href="https://colab.research.google.com/github/paudauo/BBDD_Affine_Transformations/blob/main/Notebooks/Load_RAW_data_and_plot_left_right_RT.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+  - `load_ddbb_example.ipynb` <a target="_blank" href="https://colab.research.google.com/github/paudauo/BBDD_Affine_Transformations/blob/main/Notebooks/Load_DDBB_example.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>: Load images and responses.
+  - `load_raw_data_and_compute_mlds.ipynb` <a target="_blank" href="https://colab.research.google.com/github/paudauo/BBDD_Affine_Transformations/blob/main/Notebooks/Load_RAW_data_and_compute_MLDS.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>: Compute MLDS curves from raw data.
+  - `load_mlds_data_and_plot_curves.ipynb` <a target="_blank" href="https://colab.research.google.com/github/paudauo/BBDD_Affine_Transformations/blob/main/Notebooks/Load_MLDS_data_and_plot_curves.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>: Plot normalized response curves.
+  - `convert_mlds_to_mos.ipynb` <a target="_blank" href="https://colab.research.google.com/github/paudauo/BBDD_Affine_Transformations/blob/main/Notebooks/Convert_MLDS_to_MOS.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>: Convert MLDS responses to MOS (aligned with TID2013).
+  - `analyze_reaction_times.ipynb` <a target="_blank" href="https://colab.research.google.com/github/paudauo/BBDD_Affine_Transformations/blob/main/Notebooks/Load_RAW_data_and_plot_left_right_RT.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>: Analyze reaction times and decision patterns.
 
 ---
 

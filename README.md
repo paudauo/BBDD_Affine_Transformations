@@ -21,7 +21,7 @@ Subjective responses were collected using the psychophysical method **Maximum Li
 - `answers.csv`: Raw experimental data (individual responses from observers).
 - `responses.csv`: MLDS response curves per image, distortion, and distortion level (normalized).
 -  Original and distorted images (available via HuggingFace).
-- `notebooks/`:
+- `Notebooks/`:
   - `Load_DDBB_example.ipynb`: Load images and responses.
   - `Load_RAW_data_and_compute_MLDS.ipynb`: Compute MLDS curves from raw data.
   - `Load_MLDS_data_and_plot_curves.ipynb`: Plot normalized response curves.
@@ -91,7 +91,7 @@ If you use this database or code, please cite the corresponding article (when av
 
 In each trial, participants were shown **two pairs of images** (quadruple display): one pair on the left and one on the right. Their task was to **choose the pair that showed a larger perceptual difference**. Each trial involved 4 distorted versions of the same reference image, and trials were designed to balance difficulty and prevent trivial answers.
 
-![Figure 2: Example of an MLDS trial setup](figure_2_example_trial.png)
+![Figure 2: Example of an MLDS trial setup](Figures/figure_2_example_trial.png)
 
 A total of **210 observers** completed over **40,000 trials**, under controlled lighting conditions and consistent viewing distance. Reaction times were recorded for every decision, providing insight into perceptual processing.
 
@@ -102,8 +102,8 @@ A total of **210 observers** completed over **40,000 trials**, under controlled 
 The following figure shows the perceptual response curves for each distortion type (**rotation**, **translation**, **scaling**, and **Gaussian noise**), computed using the **Maximum Likelihood Difference Scaling (MLDS)** method.
 
 <p align="center">
-  <img src="figure_refs.png" width="45%" alt="MLDS trial">
-  <img src="figure_3_mlds_curves.png" width="45%" alt="MLDS curves">
+  <img src="Figures/figure_refs.png" width="45%" alt="MLDS trial">
+  <img src="Figures/figure_3_mlds_curves.png" width="45%" alt="MLDS curves">
 </p>
 
 As distortion level increases:

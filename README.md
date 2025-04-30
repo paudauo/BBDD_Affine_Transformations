@@ -22,11 +22,21 @@ Subjective responses were collected using the psychophysical method **Maximum Li
 - `responses.csv`: MLDS response curves per image, distortion, and distortion level (normalized).
 -  Original and distorted images (available via HuggingFace).
 - `Notebooks/`:
-  - `Load_DDBB_example.ipynb`: Load images and responses.
-  - `Load_RAW_data_and_compute_MLDS.ipynb`: Compute MLDS curves from raw data.
-  - `Load_MLDS_data_and_plot_curves.ipynb`: Plot normalized response curves.
-  - `Convert_MLDS_to_MOS.ipynb`: Convert MLDS responses to MOS (aligned with TID2013).
-  - `Load_RAW_data_and_plot_left_right_RT.ipynb`: Analyze reaction times and decision patterns.
+  - `Load_DDBB_example.ipynb`: Load images and responses.<a target="_blank" href="https://colab.research.google.com/github/paudauo/BBDD_Affine_Transformations/blob/main/Notebooks/Load_DDBB_example.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+  - `Load_RAW_data_and_compute_MLDS.ipynb`: Compute MLDS curves from raw data.<a target="_blank" href="https://colab.research.google.com/github/paudauo/BBDD_Affine_Transformations/blob/main/Notebooks/Load_RAW_data_and_compute_MLDS.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+  - `Load_MLDS_data_and_plot_curves.ipynb`: Plot normalized response curves.<a target="_blank" href="https://colab.research.google.com/github/paudauo/BBDD_Affine_Transformations/blob/main/Notebooks/Load_MLDS_data_and_plot_curves.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+  - `Convert_MLDS_to_MOS.ipynb`: Convert MLDS responses to MOS (aligned with TID2013).<a target="_blank" href="https://colab.research.google.com/github/paudauo/BBDD_Affine_Transformations/blob/main/Notebooks/Convert_MLDS_to_MOS.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+  - `Load_RAW_data_and_plot_left_right_RT.ipynb`: Analyze reaction times and decision patterns.<a target="_blank" href="https://colab.research.google.com/github/paudauo/BBDD_Affine_Transformations/blob/main/Notebooks/Load_RAW_data_and_plot_left_right_RT.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ---
 

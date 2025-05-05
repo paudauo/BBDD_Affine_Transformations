@@ -56,7 +56,7 @@ Our dataset was validated at multiple levels:
 
 The full dataset and images are available at:  
 📦 https://huggingface.co/datasets/paudauo/Affine_Transformation_Database
-📦 https://doi.org/10.5281/zenodo.15230028
+📦  https://doi.org/10.5281/zenodo.15341729
 
 ---
 
